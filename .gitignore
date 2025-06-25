@@ -1,0 +1,4 @@
+# Ignorar carpetas internas de Visual Studio
+.vs/
+*.user
+*.suo
